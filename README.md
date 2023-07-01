@@ -1,6 +1,3 @@
-# Georgiy-Avaliani
-internship #1
-pleural_effusion
 Цель:
 Сегментация грудного объема и плеврального выпота в пораженных легких.
 
